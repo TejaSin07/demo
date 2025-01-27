@@ -1,4 +1,4 @@
 # demo
 <br> 
-Author -  Tejas Sinkar
+Author -  Tejas (Sinkar)
 
